@@ -1,0 +1,6 @@
+{
+  "Name": "Technical_Case_Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Dispatcher Case Tecnico",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Yahoo News Latest and Breaking News, Headlines, Live Updates, and More",
+  "Type": "App",
+  "Id": "P1y3Ca87yEuqrrMziDkcww",
+  "Reference": "37Aoz3Ykh0OemAdCfv7_-g/P1y3Ca87yEuqrrMziDkcww",
+  "Created": "2026-01-14T22:52:03.7785214Z",
+  "Updated": "2026-01-14T22:52:03.7785214Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

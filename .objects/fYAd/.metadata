@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Yahoo News",
+  "Type": "App",
+  "Id": "fYAdfhxYwU2P1Oqt80FecQ",
+  "Reference": "37Aoz3Ykh0OemAdCfv7_-g/fYAdfhxYwU2P1Oqt80FecQ",
+  "Created": "2026-01-14T22:54:30.6609361Z",
+  "Updated": "2026-01-14T22:54:30.6609361Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.24.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

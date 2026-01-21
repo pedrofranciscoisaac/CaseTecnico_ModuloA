@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qinogUjQBUGMTF297ZO53g" Reference="37Aoz3Ykh0OemAdCfv7_-g/Ae87Vzhz20OvkOPHG-gngQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://news.yahoo.com/" DesignTimeRectangle="649, 692, 932, 13090" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='module-stream' tag='DIV' /&gt;" Guid="524860f4-47e9-4ca4-be09-07af9ef7be79" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="de71f7c5c44256a11256fb133d639d56.png" xmlns="">0_aYzauwHI0aYT5a2SujcCA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractDataGeneric</x:String>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

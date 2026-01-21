@@ -1,0 +1,14 @@
+﻿{
+  "Name": "US apologizes for depor…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "v2hssPBRIEyZ4uj6tSeyoA",
+  "Reference": "37Aoz3Ykh0OemAdCfv7_-g/v2hssPBRIEyZ4uj6tSeyoA",
+  "ParentRef": "37Aoz3Ykh0OemAdCfv7_-g/hjNeo7R0akyU-U475L4Y1Q",
+  "Created": "2026-01-14T22:56:31.5231517Z",
+  "Updated": "2026-01-14T22:56:31.5231517Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.24.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
